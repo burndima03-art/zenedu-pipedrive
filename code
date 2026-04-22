@@ -40,7 +40,7 @@ function doPost(e) {
       return ContentService.createTextOutput("No email");
     }
 
-    const apiToken = "c4834f7927ac9667aafd81de40a2efdf6c016ba5";
+    const apiToken = "";
     const clubPipelineId = 4;
     const baseUrl = "https://api.pipedrive.com/v1";
 
